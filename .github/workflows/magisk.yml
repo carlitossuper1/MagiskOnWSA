@@ -448,13 +448,13 @@ jobs:
 
 
           new_props = {
-              ("product", "brand"): "google",
-              ("product", "manufacturer"): "Google",
-              ("build", "product"): "redfin",
-              ("product", "name"): "redfin",
-              ("product", "device"): "redfin",
-              ("product", "model"): "Pixel 5",
-              ("build", "flavor"): "redfin-user"
+              ("product", "brand"): "samsung",
+              ("product", "manufacturer"): "Samsung",
+              ("build", "product"): "omni_p205",
+              ("product", "name"): "omni_p205",
+              ("product", "device"): "omni_p205",
+              ("product", "model"): "Galaxy P205",
+              ("build", "flavor"): "omni_p205-user"
           }
 
 
